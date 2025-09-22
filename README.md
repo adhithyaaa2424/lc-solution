@@ -20,14 +20,17 @@
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
