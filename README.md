@@ -32,10 +32,15 @@
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/0120-triangle) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/adhithyaaa2424/lc-solution/tree/master/0165-compare-version-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
