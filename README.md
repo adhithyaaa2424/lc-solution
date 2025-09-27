@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/0120-triangle) |
+| [0830-largest-triangle-area](https://github.com/adhithyaaa2424/lc-solution/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/0120-triangle) |
+## Math
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/adhithyaaa2424/lc-solution/tree/master/0830-largest-triangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/adhithyaaa2424/lc-solution/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
