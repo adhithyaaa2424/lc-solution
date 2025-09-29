@@ -10,6 +10,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/adhithyaaa2424/lc-solution/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/adhithyaaa2424/lc-solution/tree/master/0165-compare-version-numbers) |
+| [0541-reverse-string-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/adhithyaaa2424/lc-solution/tree/master/0657-robot-return-to-origin) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/adhithyaaa2424/lc-solution/tree/master/0165-compare-version-numbers) |
+| [0541-reverse-string-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
