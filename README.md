@@ -12,6 +12,7 @@
 | [0165-compare-version-numbers](https://github.com/adhithyaaa2424/lc-solution/tree/master/0165-compare-version-numbers) |
 | [0657-robot-return-to-origin](https://github.com/adhithyaaa2424/lc-solution/tree/master/0657-robot-return-to-origin) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
+| [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -22,12 +23,14 @@
 | ------- |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -37,6 +40,7 @@
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 ## Two Pointers
 |  |
 | ------- |
