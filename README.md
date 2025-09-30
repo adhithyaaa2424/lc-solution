@@ -14,6 +14,7 @@
 | [0657-robot-return-to-origin](https://github.com/adhithyaaa2424/lc-solution/tree/master/0657-robot-return-to-origin) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/adhithyaaa2424/lc-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1205-defanging-an-ip-address](https://github.com/adhithyaaa2424/lc-solution/tree/master/1205-defanging-an-ip-address) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
