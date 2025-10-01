@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/adhithyaaa2424/lc-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0830-largest-triangle-area](https://github.com/adhithyaaa2424/lc-solution/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
 |  |
