@@ -12,6 +12,7 @@
 | [0165-compare-version-numbers](https://github.com/adhithyaaa2424/lc-solution/tree/master/0165-compare-version-numbers) |
 | [0482-license-key-formatting](https://github.com/adhithyaaa2424/lc-solution/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0541-reverse-string-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/adhithyaaa2424/lc-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/adhithyaaa2424/lc-solution/tree/master/0657-robot-return-to-origin) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/adhithyaaa2424/lc-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/adhithyaaa2424/lc-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/0120-triangle) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/adhithyaaa2424/lc-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0830-largest-triangle-area](https://github.com/adhithyaaa2424/lc-solution/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
