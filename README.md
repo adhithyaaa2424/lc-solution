@@ -10,6 +10,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/adhithyaaa2424/lc-solution/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/adhithyaaa2424/lc-solution/tree/master/0165-compare-version-numbers) |
+| [0482-license-key-formatting](https://github.com/adhithyaaa2424/lc-solution/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/adhithyaaa2424/lc-solution/tree/master/0657-robot-return-to-origin) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
