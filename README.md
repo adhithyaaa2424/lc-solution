@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/adhithyaaa2424/lc-solution/tree/master/0657-robot-return-to-origin) |
+| [1642-water-bottles](https://github.com/adhithyaaa2424/lc-solution/tree/master/1642-water-bottles) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [0830-largest-triangle-area](https://github.com/adhithyaaa2424/lc-solution/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/adhithyaaa2424/lc-solution/tree/master/1642-water-bottles) |
 ## Geometry
 |  |
 | ------- |
