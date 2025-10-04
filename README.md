@@ -44,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adhithyaaa2424/lc-solution/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/adhithyaaa2424/lc-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -55,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adhithyaaa2424/lc-solution/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/adhithyaaa2424/lc-solution/tree/master/0165-compare-version-numbers) |
 | [0541-reverse-string-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
@@ -76,6 +78,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adhithyaaa2424/lc-solution/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
