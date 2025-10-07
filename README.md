@@ -19,6 +19,7 @@
 | [0822-unique-morse-code-words](https://github.com/adhithyaaa2424/lc-solution/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [0851-goat-latin](https://github.com/adhithyaaa2424/lc-solution/tree/master/0851-goat-latin) |
+| [1078-remove-outermost-parentheses](https://github.com/adhithyaaa2424/lc-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/adhithyaaa2424/lc-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/adhithyaaa2424/lc-solution/tree/master/1205-defanging-an-ip-address) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
@@ -94,5 +95,6 @@
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/adhithyaaa2424/lc-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/adhithyaaa2424/lc-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
