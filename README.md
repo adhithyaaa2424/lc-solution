@@ -23,6 +23,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/adhithyaaa2424/lc-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/adhithyaaa2424/lc-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/adhithyaaa2424/lc-solution/tree/master/1205-defanging-an-ip-address) |
+| [1297-maximum-number-of-balloons](https://github.com/adhithyaaa2424/lc-solution/tree/master/1297-maximum-number-of-balloons) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -39,6 +40,7 @@
 | [0822-unique-morse-code-words](https://github.com/adhithyaaa2424/lc-solution/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/adhithyaaa2424/lc-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1297-maximum-number-of-balloons](https://github.com/adhithyaaa2424/lc-solution/tree/master/1297-maximum-number-of-balloons) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -47,6 +49,7 @@
 | ------- |
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/adhithyaaa2424/lc-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1297-maximum-number-of-balloons](https://github.com/adhithyaaa2424/lc-solution/tree/master/1297-maximum-number-of-balloons) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
