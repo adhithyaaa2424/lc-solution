@@ -24,6 +24,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/adhithyaaa2424/lc-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/adhithyaaa2424/lc-solution/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/adhithyaaa2424/lc-solution/tree/master/1297-maximum-number-of-balloons) |
+| [1666-make-the-string-great](https://github.com/adhithyaaa2424/lc-solution/tree/master/1666-make-the-string-great) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -107,6 +108,7 @@
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/adhithyaaa2424/lc-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/adhithyaaa2424/lc-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/adhithyaaa2424/lc-solution/tree/master/1666-make-the-string-great) |
 ## Prefix Sum
 |  |
 | ------- |
