@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adhithyaaa2424/lc-solution/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/adhithyaaa2424/lc-solution/tree/master/2127-employees-whose-manager-left-the-company) |
 ## String
 |  |
