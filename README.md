@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [1670-patients-with-a-condition](https://github.com/adhithyaaa2424/lc-solution/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adhithyaaa2424/lc-solution/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2057-count-salary-categories](https://github.com/adhithyaaa2424/lc-solution/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/adhithyaaa2424/lc-solution/tree/master/2127-employees-whose-manager-left-the-company) |
