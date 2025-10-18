@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [1317-monthly-transactions-i](https://github.com/adhithyaaa2424/lc-solution/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/adhithyaaa2424/lc-solution/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/adhithyaaa2424/lc-solution/tree/master/1338-queries-quality-and-percentage) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/adhithyaaa2424/lc-solution/tree/master/1462-list-the-products-ordered-in-a-period) |
