@@ -92,6 +92,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/adhithyaaa2424/lc-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhithyaaa2424/lc-solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2722-prime-in-diagonal](https://github.com/adhithyaaa2424/lc-solution/tree/master/2722-prime-in-diagonal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/adhithyaaa2424/lc-solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
@@ -113,6 +114,7 @@
 | [0830-largest-triangle-area](https://github.com/adhithyaaa2424/lc-solution/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/adhithyaaa2424/lc-solution/tree/master/1642-water-bottles) |
+| [2722-prime-in-diagonal](https://github.com/adhithyaaa2424/lc-solution/tree/master/2722-prime-in-diagonal) |
 | [3336-water-bottles-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/3336-water-bottles-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/adhithyaaa2424/lc-solution/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Geometry
@@ -148,4 +150,12 @@
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adhithyaaa2424/lc-solution/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Matrix
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/adhithyaaa2424/lc-solution/tree/master/2722-prime-in-diagonal) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/adhithyaaa2424/lc-solution/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
