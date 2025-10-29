@@ -84,6 +84,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/adhithyaaa2424/lc-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/adhithyaaa2424/lc-solution/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/adhithyaaa2424/lc-solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0790-global-and-local-inversions](https://github.com/adhithyaaa2424/lc-solution/tree/master/0790-global-and-local-inversions) |
 | [0822-unique-morse-code-words](https://github.com/adhithyaaa2424/lc-solution/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/adhithyaaa2424/lc-solution/tree/master/0830-largest-triangle-area) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/adhithyaaa2424/lc-solution/tree/master/3676-smallest-number-with-all-set-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/adhithyaaa2424/lc-solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
