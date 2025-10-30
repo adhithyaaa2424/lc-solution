@@ -53,6 +53,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/adhithyaaa2424/lc-solution/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/adhithyaaa2424/lc-solution/tree/master/1642-water-bottles) |
+| [2728-sum-in-a-matrix](https://github.com/adhithyaaa2424/lc-solution/tree/master/2728-sum-in-a-matrix) |
 | [3336-water-bottles-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/3336-water-bottles-ii) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/adhithyaaa2424/lc-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhithyaaa2424/lc-solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2722-prime-in-diagonal](https://github.com/adhithyaaa2424/lc-solution/tree/master/2722-prime-in-diagonal) |
+| [2728-sum-in-a-matrix](https://github.com/adhithyaaa2424/lc-solution/tree/master/2728-sum-in-a-matrix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/adhithyaaa2424/lc-solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
@@ -132,6 +134,7 @@
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhithyaaa2424/lc-solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2728-sum-in-a-matrix](https://github.com/adhithyaaa2424/lc-solution/tree/master/2728-sum-in-a-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -154,8 +157,13 @@
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/adhithyaaa2424/lc-solution/tree/master/2722-prime-in-diagonal) |
+| [2728-sum-in-a-matrix](https://github.com/adhithyaaa2424/lc-solution/tree/master/2728-sum-in-a-matrix) |
 ## Number Theory
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/adhithyaaa2424/lc-solution/tree/master/2722-prime-in-diagonal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/adhithyaaa2424/lc-solution/tree/master/2728-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
