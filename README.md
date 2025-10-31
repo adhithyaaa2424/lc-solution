@@ -66,6 +66,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/adhithyaaa2424/lc-solution/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhithyaaa2424/lc-solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adhithyaaa2424/lc-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -96,6 +97,7 @@
 | [2722-prime-in-diagonal](https://github.com/adhithyaaa2424/lc-solution/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/adhithyaaa2424/lc-solution/tree/master/2728-sum-in-a-matrix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adhithyaaa2424/lc-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/adhithyaaa2424/lc-solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 ## Two Pointers
@@ -118,6 +120,7 @@
 | [1642-water-bottles](https://github.com/adhithyaaa2424/lc-solution/tree/master/1642-water-bottles) |
 | [2722-prime-in-diagonal](https://github.com/adhithyaaa2424/lc-solution/tree/master/2722-prime-in-diagonal) |
 | [3336-water-bottles-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/3336-water-bottles-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adhithyaaa2424/lc-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/adhithyaaa2424/lc-solution/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Geometry
 |  |
