@@ -46,6 +46,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhithyaaa2424/lc-solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1660-thousand-separator](https://github.com/adhithyaaa2424/lc-solution/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/adhithyaaa2424/lc-solution/tree/master/1666-make-the-string-great) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adhithyaaa2424/lc-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -65,6 +66,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/adhithyaaa2424/lc-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/adhithyaaa2424/lc-solution/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhithyaaa2424/lc-solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adhithyaaa2424/lc-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adhithyaaa2424/lc-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
@@ -75,6 +77,7 @@
 | [0837-most-common-word](https://github.com/adhithyaaa2424/lc-solution/tree/master/0837-most-common-word) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/adhithyaaa2424/lc-solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/adhithyaaa2424/lc-solution/tree/master/1297-maximum-number-of-balloons) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/adhithyaaa2424/lc-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/adhithyaaa2424/lc-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3707-find-the-most-common-response](https://github.com/adhithyaaa2424/lc-solution/tree/master/3707-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adhithyaaa2424/lc-solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
