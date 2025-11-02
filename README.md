@@ -31,6 +31,7 @@
 | [0165-compare-version-numbers](https://github.com/adhithyaaa2424/lc-solution/tree/master/0165-compare-version-numbers) |
 | [0482-license-key-formatting](https://github.com/adhithyaaa2424/lc-solution/tree/master/0482-license-key-formatting) |
 | [0537-complex-number-multiplication](https://github.com/adhithyaaa2424/lc-solution/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/adhithyaaa2424/lc-solution/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/adhithyaaa2424/lc-solution/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/adhithyaaa2424/lc-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -89,6 +90,7 @@
 | [0011-container-with-most-water](https://github.com/adhithyaaa2424/lc-solution/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0539-minimum-time-difference](https://github.com/adhithyaaa2424/lc-solution/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/adhithyaaa2424/lc-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/adhithyaaa2424/lc-solution/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adhithyaaa2424/lc-solution/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/adhithyaaa2424/lc-solution/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/adhithyaaa2424/lc-solution/tree/master/0539-minimum-time-difference) |
 | [0790-global-and-local-inversions](https://github.com/adhithyaaa2424/lc-solution/tree/master/0790-global-and-local-inversions) |
 | [0830-largest-triangle-area](https://github.com/adhithyaaa2424/lc-solution/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
@@ -141,6 +144,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/adhithyaaa2424/lc-solution/tree/master/0539-minimum-time-difference) |
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhithyaaa2424/lc-solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2728-sum-in-a-matrix](https://github.com/adhithyaaa2424/lc-solution/tree/master/2728-sum-in-a-matrix) |
