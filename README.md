@@ -30,6 +30,7 @@
 | [0038-count-and-say](https://github.com/adhithyaaa2424/lc-solution/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/adhithyaaa2424/lc-solution/tree/master/0165-compare-version-numbers) |
 | [0482-license-key-formatting](https://github.com/adhithyaaa2424/lc-solution/tree/master/0482-license-key-formatting) |
+| [0537-complex-number-multiplication](https://github.com/adhithyaaa2424/lc-solution/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/adhithyaaa2424/lc-solution/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/adhithyaaa2424/lc-solution/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/adhithyaaa2424/lc-solution/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -52,6 +53,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/adhithyaaa2424/lc-solution/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/adhithyaaa2424/lc-solution/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/adhithyaaa2424/lc-solution/tree/master/1642-water-bottles) |
 | [2728-sum-in-a-matrix](https://github.com/adhithyaaa2424/lc-solution/tree/master/2728-sum-in-a-matrix) |
@@ -117,6 +119,7 @@
 ## Math
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/adhithyaaa2424/lc-solution/tree/master/0537-complex-number-multiplication) |
 | [0790-global-and-local-inversions](https://github.com/adhithyaaa2424/lc-solution/tree/master/0790-global-and-local-inversions) |
 | [0830-largest-triangle-area](https://github.com/adhithyaaa2424/lc-solution/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/adhithyaaa2424/lc-solution/tree/master/1018-largest-perimeter-triangle) |
